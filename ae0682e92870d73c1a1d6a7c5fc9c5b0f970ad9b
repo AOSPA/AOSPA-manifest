@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0db12b20_0e0238df",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000895
+      },
+      "writtenOn": "2024-12-31T12:25:20Z",
+      "side": 1,
+      "message": "https://github.com/pa-faiz/proprietary_vendor_qcom_common/commit/4dbba3cba31eb3403bd206a7bb75b231d304a327",
+      "revId": "ae0682e92870d73c1a1d6a7c5fc9c5b0f970ad9b",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
