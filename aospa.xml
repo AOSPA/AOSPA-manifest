@@ -30,6 +30,8 @@
   <project path="art" name="AOSPA/android_art" remote="aospa" />
   <remove-project name="platform/bionic" />
   <project path="bionic" name="AOSPA/android_bionic" remote="aospa" />
+  <remove-project name="platform/libcore" />
+  <project path="libcore" name="AOSPA/android_libcore" remote="aospa" />
 
   <!-- Device -->
   <remove-project name="device/qcom/common" />
@@ -47,6 +49,8 @@
   <!-- External -->
   <remove-project name="platform/external/arm-optimized-routines" />
   <project path="external/arm-optimized-routines" name="AOSPA/android_external_arm-optimized-routines" remote="aospa" />
+  <remove-project name="platform/external/conscrypt" />
+  <project path="external/conscrypt" name="AOSPA/android_external_conscrypt" remote="aospa" />
   <remove-project name="platform/external/e2fsprogs" />
   <project path="external/e2fsprogs" name="AOSPA/android_external_e2fsprogs" remote="aospa" />
   <remove-project name="platform/external/fastrpc" />
