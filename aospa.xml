@@ -53,8 +53,6 @@
   <project path="external/jemalloc_new" name="AOSPA/android_external_jemalloc-new" remote="aospa" />
   <remove-project name="platform/external/json-c" />
   <project path="external/json-c" name="AOSPA/android_external_json-c" remote="aospa" />
-  <remove-project name="platform/external/skia" />
-  <project path="external/skia" name="AOSPA/android_external_skia" remote="aospa" />
   <remove-project name="platform/external/tinycompress" />
   <project path="external/tinycompress" name="AOSPA/android_external_tinycompress" remote="aospa" />
 
@@ -98,10 +96,6 @@
   <project path="packages/apps/Launcher3" name="AOSPA/android_packages_apps_Launcher3" remote="aospa" />
   <remove-project name="platform/packages/apps/Settings" />
   <project path="packages/apps/Settings" name="AOSPA/android_packages_apps_Settings" remote="aospa" />
-  <remove-project name="platform/packages/modules/Wifi" />
-  <project path="packages/modules/Wifi" name="AOSPA/android_packages_modules_Wifi" remote="aospa" />
-  <remove-project name="platform/packages/providers/MediaProvider" />
-  <project path="packages/providers/MediaProvider" name="AOSPA/android_packages_providers_MediaProvider" remote="aospa" />
 
   <!-- Prebuilts (AOSPA) -->
   <project path="prebuilts/extract-tools" name="AOSPA/android_prebuilts_extract-tools" remote="aospa" />
