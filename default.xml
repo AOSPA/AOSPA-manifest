@@ -23,7 +23,7 @@
   <!-- AOSPA -->
   <remote  name="aospa"
            fetch=".."
-           review="gerrit.aospa.co"
+           review="gerrit-ssh.aospa.co"
            revision="vauxite"/>
 
   <remote  name="bitbucket"
